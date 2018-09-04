@@ -3,4 +3,5 @@ def square_array(numbers)
   numbers.each do |number|
     display_array << number ** 2
   end
+  display_array
 end
