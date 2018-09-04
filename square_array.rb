@@ -3,7 +3,3 @@ def square_array(numbers)
     print number ** 2
   end
 end
-
-
-
-
